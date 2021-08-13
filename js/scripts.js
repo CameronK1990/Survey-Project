@@ -14,9 +14,9 @@ $(document).ready(function() {
 
     if (answer <= 6) {
       $("#backend").show();
-    } else if (answer === 7) {
+    } else if (answer = 7) {
       $("#fullstack").show();
-    } else if (answer > 8) {
+    } else if (answer >= 8) {
       $("#frontend").show();
     }
 
