@@ -1,16 +1,17 @@
 .survey {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  border-style:dashed;
-  Margin: 20px;
+  border-style:solid;
+  margin-left: 20px;
   padding: 20px;
-  border-color:bisque;
+  border-color:tomato;
 }
 
 .header {
-  margin: auto;
+  margin-left: 250px;
   width: 100%;
   padding: 20px;
-  color:cadetblue;
+  color:tomato;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .img {
