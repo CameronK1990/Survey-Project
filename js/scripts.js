@@ -12,11 +12,11 @@ $(document).ready(function() {
     let question5 = parseInt($("input:radio[name = question5]:checked").val());
     let answer = add(question1,question2,question3,question4,question5)
 
-    if (answer =< 6) {
+    if (answer <= 6) {
       $("#backend").show();
-    } else if (answer = 7) {
+    } else if (answer === 7) {
       $("#fullstack").show();
-    } else (answer > 7) {
+    } else if (answer > 7) {
       $("#frontend").show();
     }
 
