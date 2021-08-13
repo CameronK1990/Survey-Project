@@ -1,3 +1,18 @@
+.survey {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-style:dashed;
+  Margin: 20px;
+  padding: 20px;
+  border-color:bisque;
+}
+
+.img {
+  width:300px;
+  height:auto;
+  border-style:solid;
+  Margin: 20px;
+  padding: 20px;
+}
 .answer {
   display: none;
 }
