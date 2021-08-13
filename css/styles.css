@@ -6,13 +6,22 @@
   border-color:bisque;
 }
 
+.header {
+  margin: auto;
+  width: 100%;
+  padding: 20px;
+  color:cadetblue;
+}
+
 .img {
   width:300px;
   height:auto;
   border-style:solid;
   Margin: 20px;
   padding: 20px;
+  flex-direction: row;
 }
+
 .answer {
   display: none;
 }
