@@ -13,7 +13,7 @@
 
 ## Description
 
-_This is a project designed to tella user which programing language would suit their needs as they enter the world of programming._
+_This is a project designed to tell a user which programming language would suit their needs as they enter the world of programming._
 
 ## Setup/Installation Requirements
 
@@ -23,8 +23,7 @@ _This is a project designed to tella user which programing language would suit t
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Editing for spelling errors_
 
 ## License
 
